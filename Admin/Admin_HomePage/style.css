@@ -1,0 +1,409 @@
+.Learn_logo
+{
+    font-size: 28px;
+    display: initial;
+    position: absolute;
+    padding: 1%;
+    margin-left: 100px;
+    font-family:serif;
+    color: white;
+}
+.learn_logo:hover{
+    text-decoration: inherit;
+    color: #60A9F9;
+}
+.Img_Logo{
+    vertical-align: middle;
+    border-radius: 100%;
+    width: 50px;
+
+}
+.Link1
+{
+    margin: 10px;
+    font-size: 20px;
+}
+
+nav{
+    background-color:transparent;
+    margin-left:25%
+}
+.paragraph
+{
+    background:linear-gradient(0deg, rgba(10, 10, 10, 0.6), rgba(0, 0, 0, 0.6)), url(banner.jpg);        
+    color:white;
+    background-size: cover;
+}
+.header_content
+{
+    padding: 10%;
+}
+
+.btn1 {
+  border-radius: 4px;
+  background-color:#60A9F9;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 28px;
+  padding: 20px;
+  width: 200px;
+    
+  transition: all 0.5s;
+  cursor: pointer;
+}
+.dropdown button{
+    background: inherit;
+}
+.btn1 span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.btn1 span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.btn1:hover span {
+  padding-right: 25px;
+}
+
+.btn1:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+/*- - - -  - - - - -- - -  - - - --  - -*/
+.header2
+{
+    font-size: 45px;
+    font-weight:bold;
+}
+.header3
+{
+    font-size: 50px;
+}
+.paragraph1
+{
+    font-size: 20px;
+}
+.head2
+{
+    padding: 50px;
+    text-align: center;
+    color: #787878;
+    font-weight: bold;
+    
+}
+.img3
+{
+    width: 100%;
+    transition: 1s ease;
+    opacity: .95;
+}
+.img3:hover
+{
+    transform: scale(1.17);
+    transition: 1s ease;
+    opacity: 1;
+}
+.img4
+{
+    width: 100%;
+    margin-left: -20%;
+    transition: 1s ease;
+}
+.img4:hover
+{
+    transform: scale(1.5);
+    transition: 1s ease;
+}
+.Our teacher
+{
+    text-align: center;
+}
+.div1
+{
+    border: 1px solid DodgerBlue;
+    margin: 10px;
+    padding: 10px;
+     transition: all .8s ease-in-out;
+    font-size: 20px;
+    
+}
+.div1:hover
+{
+   box-shadow: inset 0 1px 0 0px;  
+    transform: scale(1.1);
+    
+}
+hr
+{
+    font-size: 50x;
+    color: DodgerBlue;
+}
+.service
+{
+    text-align: center;
+    margin-bottom: 40px;
+    color: DodgerBlue;
+    font-size: 35px;
+}
+.head3
+{
+    padding: 40px 0px;
+    color: white;
+    font-size: 45px;
+
+}
+
+
+.section5
+{
+    
+    background-color: #3369e7;
+    height: 500px;
+}
+.span1
+{
+    font-size: 40px;
+    margin-left: 42%;
+}
+.counter
+{
+    text-align: center;
+    font-size: 45px;
+    color: white;
+}
+.para
+{
+    
+    text-align: center;
+    font-size: 20px;
+    color:beige;
+}
+.div2
+{
+    padding: 50px;
+    border: 1px solid #fff;
+    transition:1s ease;
+}
+.div2:hover
+{
+    
+    transform: scale(1.17);
+    transition: 1s ease;
+}
+.div3
+{
+
+   padding: 50px;
+    border: 1px solid #fff;
+    transition:1s ease;
+}
+.div3:hover
+{
+    transform: scale(1.17);
+    transition: 1s ease;
+}
+.div4
+{
+   
+   padding: 50px;
+   border: 1px solid #fff;
+   transition:1s ease;
+    
+}
+.div4:hover
+{
+    transform: scale(1.17);
+    transition: 1s ease;
+}
+.div5
+{
+    padding: 50px;
+    border: 1px solid #fff;
+    height: 300px;
+    transition:1s ease;
+}
+.div5:hover
+{
+    transform: scale(1.17);
+    transition: 1s ease;
+}
+.choose1
+{
+    width: 85px;
+    transition:1s ease;
+}
+.choose1:hover
+{
+     transform: scale(1.1);
+    transition: 1s ease;
+}
+#span1
+{
+    font-size: 22px;
+    margin: 10px;
+    color:#A6B40F;
+    font-weight: bold;
+}
+.img5
+{
+    transition:1s ease;
+    opacity: .9;
+}
+.img5:hover
+{
+    transform: scale(1.1);
+    transition: 1s ease;
+    opacity: 1;
+}
+.section7
+{
+   background:linear-gradient(0deg, rgba(10, 10, 10, 0.6), rgba(0, 0, 0, 0.6)), url(testimonials.jpg);   
+    height: 570px;
+}
+
+
+
+.img6
+{
+    margin-left: 120px;
+}
+.img7
+{
+    margin-left: 110px;
+    margin-top: -20px;
+}
+.head5
+{
+    margin-left: 100px;
+    color: white;
+}
+.head6
+{
+    margin-left: 90px;
+    color:white;
+}
+.parent
+{
+    padding-top: 60px;
+    color: white;
+    font-weight: bold;
+}
+#span2
+{
+ color: white;   
+}
+.Education
+{
+    color:white;
+}
+.img8
+{
+    width: 100%;
+    transition: 1s ease;
+}
+.img8:hover
+{
+    transform: scale(1.1);
+    transition: 1s ease;
+}
+.teacher1
+{
+    text-align: center;
+    margin-top: 15px;
+    color: white;
+}
+.teacher
+{
+    text-align: center;
+    margin-bottom: 35px;
+    color: DodgerBlue;
+}
+.section8
+{
+    background-color:#998A8A;
+    padding: 60px;
+}
+.section9
+{
+    background:linear-gradient(0deg, rgba(10, 10, 10, 0.8), rgba(0, 0, 0, 0.8)), url(footer.jpg); 
+    height: 500px;
+    
+}
+.head9
+{
+    text-align: center;
+    color: white;
+    padding: 60px;
+    font-size: 40px;
+}
+.p9
+{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    
+}
+.facebook
+{
+    font-size:50px;
+    margin-left:38%;
+    color: white;
+    padding: 10px;
+    margin-top: 15px;
+}
+.instagram
+{
+     font-size:50px;
+    color: white;
+    padding: 10px;
+}
+.twitter
+{
+    font-size:50px;
+    color: white;
+    padding: 10px;
+}
+.google
+{
+    font-size:50px;
+    color: white;
+    padding: 10px;
+}
+.viber
+{
+    font-size:50px;
+    color: white;
+    padding: 10px;
+}
+.copyright
+{
+    background-color: #111;
+  
+}
+.II
+{
+    list-style-type: none;
+    display: inline-block;
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+}
+.footer
+{
+    padding: 10px;
+    font-size: 20px;   
+     color: white;
+}
+
+
+
